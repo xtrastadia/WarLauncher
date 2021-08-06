@@ -1,0 +1,12 @@
+C:\Users\xtrastadia\Desktop\EmulWF\Исходники\WarLauncher\obj\Debug\WarLauncher.csproj.CoreCompileInputs.cache
+C:\Users\xtrastadia\Desktop\EmulWF\Исходники\WarLauncher\bin\Debug\WarfaceLauncher.exe
+C:\Users\xtrastadia\Desktop\EmulWF\Исходники\WarLauncher\bin\Debug\WarfaceLauncher.pdb
+C:\Users\xtrastadia\Desktop\EmulWF\Исходники\WarLauncher\obj\Debug\WarfaceLauncher.exe
+C:\Users\xtrastadia\Desktop\EmulWF\Исходники\WarLauncher\obj\Debug\WarfaceLauncher.pdb
+C:\Users\xtrastadia\Desktop\EmulWF\Исходники\WarLauncher\obj\Debug\WarLauncher.csproj.AssemblyReference.cache
+E:\EmulWF\Исходники\WarLauncher\bin\Debug\WarfaceLauncher.exe
+E:\EmulWF\Исходники\WarLauncher\bin\Debug\WarfaceLauncher.pdb
+E:\EmulWF\Исходники\WarLauncher\obj\Debug\WarLauncher.csproj.AssemblyReference.cache
+E:\EmulWF\Исходники\WarLauncher\obj\Debug\WarLauncher.csproj.CoreCompileInputs.cache
+E:\EmulWF\Исходники\WarLauncher\obj\Debug\WarfaceLauncher.exe
+E:\EmulWF\Исходники\WarLauncher\obj\Debug\WarfaceLauncher.pdb
